@@ -1,0 +1,16 @@
+#compiles files 
+*.exe
+*.obj
+*.dll
+*.obj
+#build directories
+build/
+bin/
+#SDL generated or cache
+*.log
+#Editor
+.vscode/
+.idea/
+#os
+Thumbs.db
+ 
